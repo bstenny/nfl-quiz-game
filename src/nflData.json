@@ -1,0 +1,50 @@
+{
+  "AFC East": {
+    "Buffalo Bills": "Sean McDermott",
+    "Miami Dolphins": "Mike McDaniel",
+    "New England Patriots": "Bill Belichick",
+    "New York Jets": "Robert Saleh"
+  },
+  "AFC North": {
+    "Baltimore Ravens": "John Harbaugh",
+    "Cincinnati Bengals": "Zac Taylor",
+    "Cleveland Browns": "Kevin Stefanski",
+    "Pittsburgh Steelers": "Mike Tomlin"
+  },
+  "AFC South": {
+    "Houston Texans": "DeMeco Ryans",
+    "Indianapolis Colts": "Shane Steichen",
+    "Jacksonville Jaguars": "Doug Pederson",
+    "Tennessee Titans": "Mike Vrabel"
+  },
+  "AFC West": {
+    "Denver Broncos": "Sean Payton",
+    "Kansas City Chiefs": "Andy Reid",
+    "Las Vegas Raiders": "Antonio Pierce",
+    "Los Angeles Chargers": "Brandon Staley"
+  },
+  "NFC East": {
+    "Dallas Cowboys": "Mike McCarthy",
+    "New York Giants": "Brian Daboll",
+    "Philadelphia Eagles": "Nick Sirianni",
+    "Washington Commanders": "Ron Rivera"
+  },
+  "NFC North": {
+    "Chicago Bears": "Matt Eberflus",
+    "Detroit Lions": "Dan Campbell",
+    "Green Bay Packers": "Matt LaFleur",
+    "Minnesota Vikings": "Kevin O'Connell"
+  },
+  "NFC South": {
+    "Atlanta Falcons": "Arthur Smith",
+    "Carolina Panthers": "Chris Tabor",
+    "New Orleans Saints": "Dennis Allen",
+    "Tampa Bay Buccaneers": "Todd Bowles"
+  },
+  "NFC West": {
+    "Arizona Cardinals": "Jonathan Gannon",
+    "Los Angeles Rams": "Sean McVay",
+    "San Francisco 49ers": "Kyle Shanahan",
+    "Seattle Seahawks": "Pete Carroll"
+  }
+}
